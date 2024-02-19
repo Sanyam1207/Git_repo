@@ -1,0 +1,37 @@
+[33mcommit 0c54481e5787bd3f2867d59965c1a646ce76ba40[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Sanyam Pandey <sanyam071104@gmail.com>
+Date:   Mon Feb 19 18:25:02 2024 +0530
+
+    apps added
+
+[33mcommit 6755cf9c692b3ec463810883da91160a246dc4f0[m
+Merge: 13a2657 1ec148a
+Author: Sanyam Pandey <sanyam071104@gmail.com>
+Date:   Mon Feb 19 00:36:06 2024 +0530
+
+    Merge branch 'music_player'
+    :wq
+
+[33mcommit 1ec148a2284b4fe84f970513d96710daba4893a0[m
+Author: Sanyam Pandey <sanyam071104@gmail.com>
+Date:   Mon Feb 19 00:30:29 2024 +0530
+
+    add music player
+
+[33mcommit 13a26576643a205dd59e0ef2d348906d03bb323e[m
+Author: Sanyam Pandey <sanyam071104@gmail.com>
+Date:   Mon Feb 19 00:26:11 2024 +0530
+
+    Add Internet
+
+[33mcommit 860a3020da7b232cd6cc4d724aafd2533e70d052[m
+Author: Sanyam Pandey <sanyam071104@gmail.com>
+Date:   Mon Feb 19 00:06:20 2024 +0530
+
+    description added for new phone
+
+[33mcommit 11208dcb6f9cc7fab48eb19b44616c983d856897[m
+Author: Sanyam Pandey <sanyam071104@gmail.com>
+Date:   Mon Feb 19 00:03:50 2024 +0530
+
+    create phone
